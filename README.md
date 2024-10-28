@@ -1,10 +1,10 @@
-# SVU - Advanced Web Development (AWD) Assignment by PhD. Bassel Alkhateeb for F23
+# SVU - Advanced Web Development (AWD) Assignment by PhD. Bassel Alkhateeb for S24
 
 by Group assignment S24 (Issa & Loai & Mohamad & Mariam) 
 MCS_AWD_S24
 
-Live Hosting: https://abdullahaltatan.pythonanywhere.com  
-Github Repo: https://github.com/aaltatan/awd_assignment  
+Live Hosting: https://Issasabagh.pythonanywhere.com  
+Github Repo: https://github.com/IssaSVU/SVU-Assignment 
 README.md File: https://github.com/aaltatan/awd_assignment/blob/main/README.md
 
 ## Installation
