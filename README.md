@@ -4,7 +4,7 @@ by Group assignment S24 (Issa & Loai & Mohamad & Mariam)
 MCS_AWD_S24
 
 Live Hosting: https://Issasabagh.pythonanywhere.com  
-Github Repo: https://github.com/IssaSVU/SVU-Assignment 
+Github Repo: https://github.com/IssaSVU/SVU-Assignment  
 README.md File: https://github.com/aaltatan/awd_assignment/blob/main/README.md
 
 ## Installation
