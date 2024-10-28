@@ -5,11 +5,11 @@ MCS_AWD_S24
 
 Live Hosting: https://Issasabagh.pythonanywhere.com  
 Github Repo: https://github.com/IssaSVU/SVU-Assignment  
-README.md File: https://github.com/aaltatan/awd_assignment/blob/main/README.md
+README.md File: https://github.com/IssaSVU/SVU-Assignment/blob/main/README.md
 
 ## Installation
 
-- ``` git clone https://github.com/aaltatan/awd_assignment.git ```
+- ``` git clone https://github.com/IssaSVU/SVU-Assignment.git ```
 - ``` cd awd_assignment ```
 - ``` npm install ```
 - ``` pip install -r requirements.txt ```  
