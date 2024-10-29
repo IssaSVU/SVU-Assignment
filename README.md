@@ -71,32 +71,6 @@ INSTALLED_APPS = [
 ]
 ```
 
-to make Django knows the 'templates' 
-
-
-
-then i write StockData model into ``` stockapp/models.py ``` like this:
-
-
-
-then i registered the model in ``` stockapp/admin.py ``` and make some configurations to show it probably in admin site:  
-
-
-
-then i create a super user by running this command to ability to login in admin site:  
-
-``` python ./manage.py createsuperuser ```
-
-then i create the only view in my project to handle rendering html page and handle POST request which will be came to it from client side (JavaScript):  
-
-
-then i add those lines into ``` _project/settings.py ``` to make Django knows redirect urls for login/logout:  
-
-```
-LOGIN_REDIRECT_URL = '/'
-LOGOUT_REDIRECT_URL = '/accounts/login'
-```
-
 ### JavaScript
 
 i wrote a script to handle sending POST request to the endpoint to get json fetched data and create some elements in page like this:
