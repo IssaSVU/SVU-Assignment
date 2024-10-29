@@ -7,7 +7,7 @@ Live Hosting: https://Issasabagh.pythonanywhere.com
 Github Repo: https://github.com/IssaSVU/SVU-Assignment  
 README.md File: https://github.com/IssaSVU/SVU-Assignment/blob/main/README.md
 
-## Installation
+## Installation Assignment
 
 - ``` git clone https://github.com/IssaSVU/SVU-Assignment.git ```
 - ``` cd SVU-Assignment  ```
