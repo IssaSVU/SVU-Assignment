@@ -45,8 +45,6 @@ and return a list of dictionaries including fetched data.
 
 ``` python ./app.py ```
 
-result:
-
 
 ### Django
 
@@ -73,15 +71,13 @@ INSTALLED_APPS = [
 
 ### JavaScript
 
-i wrote a script to handle sending POST request to the endpoint to get json fetched data and create some elements in page like this:
+i wrote a script to handle sending POST request to the endpoint to get json fetched data and create some elements in page :
 
 
 i used chartjs (cdn version) library to creating a plot which representing the data i fetched
 ```
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 ```
-
-i wish the project describe it self if i missing something in this report.  
 
 
 Thanks for reading.
