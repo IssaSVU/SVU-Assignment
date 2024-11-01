@@ -3,9 +3,7 @@
  #Quality Assurance Department
  #MCS 
 
-# Syrian Virtual Universty
-#Advanced Web Development (AWD) 
-#Assignment by PhD. Bassel Alkhateeb for S24
+# Syrian Virtual Universty - Advanced Web Development (AWD) Assignment by PhD. Bassel Alkhateeb for S24
 
 by Group assignment S24 (Issa & Loai & Mohamad & Mariam) 
 MCS_AWD_S24
