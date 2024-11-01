@@ -1,7 +1,7 @@
 
- Syrian Virtual University                                                                     برنامج الهندسة المعلوماتية 
-                                                     ماجيستير في علوم الحاسب                                                                  Quality Assurance Department
-                                                       تأهيل وتخصص                                                                                               MCS 
+ Syrian Virtual University                                                                     
+ Quality Assurance Department
+ MCS 
 
 
 
