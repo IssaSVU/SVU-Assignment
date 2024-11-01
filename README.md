@@ -1,3 +1,10 @@
+
+ Syrian Virtual University                                                                     برنامج الهندسة المعلوماتية 
+                                                     ماجيستير في علوم الحاسب                                                                  Quality Assurance Department
+                                                       تأهيل وتخصص                                                                                               MCS 
+
+
+
 # SVU - Advanced Web Development (AWD) Assignment by PhD. Bassel Alkhateeb for S24
 
 by Group assignment S24 (Issa & Loai & Mohamad & Mariam) 
